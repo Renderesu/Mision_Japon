@@ -28,5 +28,5 @@
 ---
 
 ## 🖼️ Diagrama / Evidencia
-![Imagen de prueba](evidencia_02.jpg)
-![Imagen de prueba](evidencia_03.jpg)
+![Imagen de prueba](Evidencia_02.jpg)
+![Imagen de prueba](Evidencia_03.jpg)
