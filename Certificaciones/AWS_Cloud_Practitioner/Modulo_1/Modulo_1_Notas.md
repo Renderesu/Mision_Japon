@@ -21,4 +21,4 @@ La nube de AWS permite cambiar gastos de capital por gastos variable, con amplit
 5. **Implementacion:** Velocidad extrema para la aplicacion en escala global de servicios.
 
 ## 🖼️ Diagrama / Evidencia
-![Diagrama Inicial](evidencia_01.jpg)
+![Diagrama Inicial](Evidencia_01.jpg)
